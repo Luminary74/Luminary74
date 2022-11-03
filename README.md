@@ -1,5 +1,5 @@
 ### Hi there 👋
-备份打靶笔记
+备份笔记
 <!--
 **Luminary74/Luminary74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
